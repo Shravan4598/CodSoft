@@ -123,5 +123,5 @@ Build a model to detect fraudulent credit card transactions.
 For queries or collaborations, feel free to contact me:
 
 * 📩 **Email:** [shravankumarpandey825412@gmail.com](mailto:shravankumarpandey825412@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)
+* **[LinkedIn]**(https://www.linkedin.com/in/shravan-kumar-pandey-309786309/)
 ---
