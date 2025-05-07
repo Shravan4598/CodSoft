@@ -92,24 +92,6 @@ Build a model to detect fraudulent credit card transactions.
 
 ---
 
-## 🚀 Setup Instructions
-
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/yourusername/CODSOFT.git
-   cd CODSOFT
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run Jupyter Notebooks or Python scripts as needed.
-
----
 
 ## 📸 Video Demonstration
 
